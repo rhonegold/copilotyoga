@@ -1,3 +1,5 @@
+<img src="https://github.com/sir-benniboy/copilotyoga/blob/main/images/Cogi2.png?raw=true" width="200"/>
+
 # copilotyoga
 This repository serves to encourage usage of Copilot for Microsoft 365 by recommending daily prompts thanks to a Power Automate flow.
 
