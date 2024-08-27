@@ -7,7 +7,7 @@ Step 1	Download and open the CopilotYoga_Prompts.xlsx (https://github.com/sir-be
 
 Step 2	Define a user or distribution list who will be sending out the communications
 
-Step 3	Define a user or distribution list to whom you will be send the communications
+Step 3	Define a user or distribution list who will be receiving the communications
 
 Step 4	Download & deploy the PowerAutomate .zip file using chosen user (https://github.com/sir-benniboy/copilotyoga/blob/main/CopilotYoga_20240823142428.zip)
 
